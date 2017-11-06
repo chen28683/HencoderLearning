@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HencoderLearning.iml" filepath="$PROJECT_DIR$/HencoderLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leanring1/leanring1.iml" filepath="$PROJECT_DIR$/leanring1/leanring1.iml" />
     </modules>
   </component>
 </project>
